@@ -38,4 +38,4 @@ O que falta descobrir:
 Pergunta principal:
 Plano de investigação:
 Resultado verificado:
-Próximo passo:
+Próximo passo: 
