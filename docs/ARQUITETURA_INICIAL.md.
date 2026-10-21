@@ -1,0 +1,54 @@
+
+# Sara Lab — Arquitetura Inicial
+
+Versão: 0.1
+
+## Objetivo
+
+Construir um sistema modular de IA assistida, ferramentas e automações, desenvolvido usando somente um POCO X5.
+
+## Perfil da Sara
+
+- Autonomia equilibrada.
+- Iniciativa por horários ou acompanhamentos programados.
+- Capacidade de formular perguntas e investigar incertezas.
+- Sistema geral, adaptável a vários tipos de projeto.
+- Transparência sobre resultados, erros e limitações.
+
+## Arquitetura
+
+1. **Planejamento:** definir objetivos e próximos passos.
+2. **Skills:** instruções reutilizáveis para tarefas específicas.
+3. **Execução:** Termux, Python e Git no Android.
+4. **Ferramentas:** APIs e integrações autorizadas.
+5. **Memória do projeto:** documentação versionada no GitHub.
+6. **Agendamento:** lembretes e tarefas futuras compatíveis com o ambiente.
+
+## Ciclo de investigação
+
+Observar → Formular perguntas → Planejar → Selecionar ferramentas → Executar → Verificar → Registrar → Propor o próximo passo.
+
+## Limites de autonomia
+
+- Operações reversíveis e de baixo risco podem avançar sem aprovação a cada etapa.
+- Pedir aprovação para ações destrutivas, financeiras ou que compartilhem dados.
+- Nunca guardar senhas ou tokens no repositório.
+- Diferenciar fatos verificados de hipóteses.
+- Nunca afirmar que uma ação foi concluída sem verificar o resultado.
+
+## Plano inicial
+
+1. Preparar o Termux.
+2. Instalar Python e Git.
+3. Executar o primeiro script.
+4. Criar a primeira skill de planejamento e verificação.
+5. Desenvolver um ciclo de investigação.
+6. Adicionar acompanhamentos programados.
+
+## Critérios de sucesso
+
+- Scripts executados e verificados no celular.
+- Documentação organizada no GitHub.
+- Experimentos reproduzíveis.
+- Próximos passos registrados.
+- Segredos e dados privados protegidos.
